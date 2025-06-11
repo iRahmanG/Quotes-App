@@ -60,6 +60,7 @@ To run the app locally:
 ---
 
 ## 👨‍💻 Author
+ **M Rahman**
 - GitHub https://github.com/iRahmanG
-- LinkedIn
+- LinkedIn https://www.linkedin.com/in/maksud-rahman-737818327/
 
